@@ -1,7 +1,7 @@
 import subprocess
 
 # Path to virtual environment Python executable
-python_bin = "venv/Scripts/python.exe"
+python_bin = "venv/scripts/python.exe"
 
 # Path to script
 script_file = "usb_midi.pyw"
