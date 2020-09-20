@@ -1,0 +1,10 @@
+Connected MIDI Input Devices:
+Arturia MicroLab 1
+PRO-1 0
+
+Connected Audio Output Devices:
+Arturia MicroLab 2
+Microsoft GS Wavetable Synth 0
+PRO-1 1
+
+Channel Mode = 0
