@@ -11,7 +11,7 @@ Instructions on editing the config file are found below. Simply re-run start.pyw
 4. Disconnected MIDI devices can simply be disabled, but new devices ones will require config.txt to be deleted and
 generated again by running start.pyw.
 
-###Editing config.txt:
+### Editing config.txt:
 
 **To disable a MIDI Device, add a '#' in front of its name:**  
 
