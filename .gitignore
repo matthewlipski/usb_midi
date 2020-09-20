@@ -55,5 +55,8 @@ coverage.xml
 # Pyre type checker
 .pyre/
 
-#IDE
+# IDE
 .idea/
+
+# Project files
+/config.txt
