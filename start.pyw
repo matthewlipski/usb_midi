@@ -8,3 +8,5 @@ script_file = "usb_midi.pyw"
 
 # Running the script using selected Python executable
 subprocess.Popen([python_bin, script_file])
+
+# Test
